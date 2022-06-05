@@ -34,7 +34,7 @@ env:
   PKG_NAME: "terraform"
 
 permissions:
-  contents: read
+  contents: write
   statuses: write
 
 jobs:
